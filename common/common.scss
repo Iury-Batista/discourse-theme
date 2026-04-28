@@ -8,7 +8,7 @@
 .sidebar-theme-toggle__wrapper
   .sidebar-theme-toggle-dropdown.select-kit.is-expanded
   .select-kit-body {
-  background: #530000;
+  background: var(--sidebar-color);
   border-color: var(--sidebar-border);
   box-shadow: none;
   width: calc(var(--d-sidebar-width) - 1.75em) !important;
